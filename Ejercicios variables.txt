@@ -1,0 +1,22 @@
+
+Ejercicio 1: Crear una variable llamada car, asignarle el valor "Seat" y mostrarlo por consola.
+
+Ejercicio 2: Crear una variable llamada number, asignarle el valor 50 y mostrarlo por consola.
+
+Ejercicio 3: Mostrar por consola la suma de 5 + 10, usando las variables x, y.
+
+Ejercicio 4:  Crear tres variables con los siguientes valores:
+firstName = “Juan”
+lastName = “Pérez”
+Age = 50
+Salida por consola: Juan Pérez tiene 50 años
+
+Ejercicio 5: hacer los ejercicios anteriores pero mostrando los resultados en un parrafo <p>
+
+Ejercicio 6: Mostrar las variables del ejercicio 4 en un párrafo <p> con el siguiente formato:
+Juan
+Pérez
+tiene
+50
+años
+
